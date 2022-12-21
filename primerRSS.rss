@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+   <channel>
+      <title>rss-loterias</title>
+      <description>RSS Loterías Salvador del Mundo</description>
+      <link>https://joserrareal.github.io/</link>
+      <item>
+         <title>Nuestros Servicios</title>
+         <description>Nuestros servicios</description>
+         <link>https://joserrareal.github.io/</link>
+         <pubDate>Mon, 30 Dic 2019 23:00:00 EST</pubDate>
+      </item>
+   </channel>
+</rss>
+
